@@ -216,8 +216,6 @@ const Projects = () => {
     
   ]
 
-  const categories = ["All", "Mobile Development", "Systems Programming", "Database Systems", "Algorithms & Theory", "Full-Stack", "Machine Learning", "Game Development", "Operating Systems"]
-
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
